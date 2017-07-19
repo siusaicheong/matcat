@@ -1,6 +1,6 @@
-1.	An English-Chinese Glossary of IT Terms <http://www.ogcio.gov.hk/en/infrastructure/methodology/glossary/doc/IT_Glossary.pdf>
-2.	English-Chinese Glossary of Bright Stars (https://www.lcsd.gov.hk/CE/Museum/Space/zh_TW/web/spm/starshine/resources/constemyth/chinengstars.html)
-3.	English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names (https://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html)
+1.	An English-Chinese Glossary of IT Terms http://www.ogcio.gov.hk/en/infrastructure/methodology/glossary/doc/IT_Glossary.pdf
+2.	English-Chinese Glossary of Bright Stars https://www.lcsd.gov.hk/CE/Museum/Space/zh_TW/web/spm/starshine/resources/constemyth/chinengstars.html
+3.	English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names https://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html
 4.	Glossaries of Terms Commonly Used in Government Departments (http://www.csb.gov.hk/hkgcsb/glossary/glossary_en.php)
 5.	Glossary of Geotechnical Terms English to Chinese (http://www.cedd.gov.hk/eng/publications/geo_reports/doc/er148.pdf)
 6.	Glossary of Nuclear Science Terms (http://www2.lbl.gov/abc/Glossary.html)
